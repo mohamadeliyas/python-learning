@@ -59,9 +59,17 @@ Each solution demonstrates:
 ## Quick Start
 
 ```bash
+# 1️⃣ Clone the repository
 git clone https://github.com/mohamadeliyas/python-learning
+
+# 2️⃣ Move into the project folder
 cd python-learning
-python variables.py
+
+# 3️⃣ Move into a specific topic folder
+cd 01-variables-and-data-types
+
+# 4️⃣ Run the Python file
+python3 variables.py
 ```
 
 ## Status
