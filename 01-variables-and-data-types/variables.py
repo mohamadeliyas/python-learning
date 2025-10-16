@@ -47,7 +47,7 @@ message = "This is the updated message."
 print(message)
 
 # Update numeric variable
-counter = 1
+counter = 0
 print("Counter:", counter)
 
 counter = 5
